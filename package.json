@@ -1,0 +1,33 @@
+{
+  "name": "md-to-headless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lexoyo/md-to-headless.git"
+  },
+  "keywords": [
+    "markdown",
+    "convert",
+    "CSV",
+    "jekyll",
+    "11ty",
+    "headless",
+    "directus"
+  ],
+  "author": "lexoyo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/lexoyo/md-to-headless/issues"
+  },
+  "homepage": "https://github.com/lexoyo/md-to-headless#readme",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "csv-writer": "^1.6.0",
+    "front-matter": "^4.0.2"
+  }
+}
