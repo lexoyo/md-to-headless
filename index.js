@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const arg = require('arg')
 const fs = require('node:fs/promises')
 const fm = require('front-matter')
